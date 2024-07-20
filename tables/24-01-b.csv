@@ -1,0 +1,9 @@
+#	Name		1	2	3	4	5	6	7	8	Punkte
+1	Sauer		=	0	1	1	1	0	1	0	4
+2	Wenzel		1	=	0	0	1	1	1	0	4
+3	Heusel		0	1	=	.5	1	.5	1	1	5
+4	Brunner		0	1	.5	=	1	1	1	1	5.5
+5	Messer		0	0	0	0	=	1	1	0	2
+6	Pfeiffer	1	0	.5	0	0	=	1	0	2.5
+7	Schupp		0	0	0	0	0	0	=	0	0
+8	Iwanicki	1	1	0	0	1	1	1	=	5

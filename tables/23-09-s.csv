@@ -1,0 +1,11 @@
+#	Name		1	2	3	4	5	6	7	8	9	10	Punkte
+1	Brunner		=	'	'	'	1	'	'	1*	1	1*	4
+2	Budimir		'	=	1*	'	'	1*	'	1	1	'	4
+3	Pfeiffer	'	0	=	1	'	'	1	'	'	'	2
+4	Schmidt		'	'	0*	=	'	1	'	'	'	1	2
+5	Wenzel		0*	'	'	'	=	1	'	'	=*	'	1.5
+6	Hornig		'	0	'	0*	0*	=	'	'	'	1	1
+7	Sauer		'	'	0*	'	'	'	=	0*	'	1	1
+8	Schupp		0	0*	'	'	'	'	1	=	'	'	1
+9	Messer		0*	0*	'	'	=	'	'	'	=	'	.5
+10	Reinhold	0	'	'	0*	'	0	0	'	'	=	0
